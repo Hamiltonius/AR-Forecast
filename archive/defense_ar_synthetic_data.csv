@@ -1,0 +1,94 @@
+account_id,customer_name,overdue_amount,days_overdue,pct_total_overdue,status
+AR-1000,Lockheed Martin Corp,177402,138,5.02,OVERDUE
+AR-1001,Lockheed Martin Corp,142974,125,4.05,OVERDUE
+AR-1002,Lockheed Martin Corp,110614,157,3.13,OVERDUE
+AR-1003,Lockheed Martin Corp,24571,65,0.7,OVERDUE
+AR-1004,Lockheed Martin Corp,0,0,0.0,CURRENT
+AR-1005,Lockheed Martin Corp,0,0,0.0,CURRENT
+AR-1006,Lockheed Martin Corp,0,0,0.0,CURRENT
+AR-1007,Raytheon Technologies,0,0,0.0,CURRENT
+AR-1008,Raytheon Technologies,0,0,0.0,CURRENT
+AR-1009,Raytheon Technologies,0,0,0.0,CURRENT
+AR-1010,Boeing Defense Division,0,0,0.0,CURRENT
+AR-1011,Boeing Defense Division,0,0,0.0,CURRENT
+AR-1012,Boeing Defense Division,0,0,0.0,CURRENT
+AR-1013,General Dynamics,187710,133,5.31,OVERDUE
+AR-1014,General Dynamics,142863,93,4.04,OVERDUE
+AR-1015,General Dynamics,117767,115,3.33,OVERDUE
+AR-1016,General Dynamics,0,0,0.0,CURRENT
+AR-1017,General Dynamics,0,0,0.0,CURRENT
+AR-1018,General Dynamics,0,0,0.0,CURRENT
+AR-1019,Northrop Grumman,0,0,0.0,CURRENT
+AR-1020,L3Harris Technologies,0,0,0.0,CURRENT
+AR-1021,BAE Systems USA,0,0,0.0,CURRENT
+AR-1022,BAE Systems USA,0,0,0.0,CURRENT
+AR-1023,BAE Systems USA,0,0,0.0,CURRENT
+AR-1024,Huntington Ingalls Industries,72852,45,2.06,OVERDUE
+AR-1025,Huntington Ingalls Industries,200155,92,5.66,OVERDUE
+AR-1026,Huntington Ingalls Industries,24322,60,0.69,OVERDUE
+AR-1027,Huntington Ingalls Industries,94114,105,2.66,OVERDUE
+AR-1028,Huntington Ingalls Industries,158273,106,4.48,OVERDUE
+AR-1029,Huntington Ingalls Industries,11400,90,0.32,OVERDUE
+AR-1030,Huntington Ingalls Industries,0,0,0.0,CURRENT
+AR-1031,Huntington Ingalls Industries,0,0,0.0,CURRENT
+AR-1032,Huntington Ingalls Industries,0,0,0.0,CURRENT
+AR-1033,Textron Defense,20666,75,0.58,OVERDUE
+AR-1034,Textron Defense,217433,170,6.15,OVERDUE
+AR-1035,Textron Defense,232125,146,6.57,OVERDUE
+AR-1036,Textron Defense,151359,143,4.28,OVERDUE
+AR-1037,Textron Defense,0,0,0.0,CURRENT
+AR-1038,Textron Defense,0,0,0.0,CURRENT
+AR-1039,CACI International,0,0,0.0,CURRENT
+AR-1040,SAIC Corporation,0,0,0.0,CURRENT
+AR-1041,Booz Allen Hamilton,0,0,0.0,CURRENT
+AR-1042,Booz Allen Hamilton,0,0,0.0,CURRENT
+AR-1043,Booz Allen Hamilton,0,0,0.0,CURRENT
+AR-1044,Leidos Holdings,0,0,0.0,CURRENT
+AR-1045,Palantir Technologies,0,0,0.0,CURRENT
+AR-1046,Palantir Technologies,0,0,0.0,CURRENT
+AR-1047,Kratos Defense,0,0,0.0,CURRENT
+AR-1048,Aerojet Rocketdyne,0,0,0.0,CURRENT
+AR-1049,Oshkosh Defense,0,0,0.0,CURRENT
+AR-1050,General Atomics,0,0,0.0,CURRENT
+AR-1051,General Atomics,0,0,0.0,CURRENT
+AR-1052,Cubic Corporation,0,0,0.0,CURRENT
+AR-1053,Cubic Corporation,0,0,0.0,CURRENT
+AR-1054,ManTech International,0,0,0.0,CURRENT
+AR-1055,ManTech International,0,0,0.0,CURRENT
+AR-1056,Parsons Corporation,97050,60,2.75,OVERDUE
+AR-1057,Parsons Corporation,175692,108,4.97,OVERDUE
+AR-1058,Parsons Corporation,245548,170,6.95,OVERDUE
+AR-1059,Parsons Corporation,18727,75,0.53,OVERDUE
+AR-1060,Parsons Corporation,0,0,0.0,CURRENT
+AR-1061,Parsons Corporation,0,0,0.0,CURRENT
+AR-1062,Parsons Corporation,0,0,0.0,CURRENT
+AR-1063,Parsons Corporation,0,0,0.0,CURRENT
+AR-1064,CSRA Inc,0,0,0.0,CURRENT
+AR-1065,DynCorp International,0,0,0.0,CURRENT
+AR-1066,DynCorp International,0,0,0.0,CURRENT
+AR-1067,DynCorp International,0,0,0.0,CURRENT
+AR-1068,KBR Inc,121188,149,3.43,OVERDUE
+AR-1069,KBR Inc,242595,129,6.86,OVERDUE
+AR-1070,KBR Inc,146011,149,4.13,OVERDUE
+AR-1071,KBR Inc,85018,105,2.41,OVERDUE
+AR-1072,KBR Inc,0,0,0.0,CURRENT
+AR-1073,KBR Inc,0,0,0.0,CURRENT
+AR-1074,KBR Inc,0,0,0.0,CURRENT
+AR-1075,Fluor Corporation,215440,126,6.1,OVERDUE
+AR-1076,Fluor Corporation,82704,60,2.34,OVERDUE
+AR-1077,Fluor Corporation,17360,45,0.49,OVERDUE
+AR-1078,Fluor Corporation,0,0,0.0,CURRENT
+AR-1079,Fluor Corporation,0,0,0.0,CURRENT
+AR-1080,Fluor Corporation,0,0,0.0,CURRENT
+AR-1081,Jacobs Engineering,0,0,0.0,CURRENT
+AR-1082,Jacobs Engineering,0,0,0.0,CURRENT
+AR-1083,Jacobs Engineering,0,0,0.0,CURRENT
+AR-1084,Peraton Inc,0,0,0.0,CURRENT
+AR-1085,Peraton Inc,0,0,0.0,CURRENT
+AR-1086,Peraton Inc,0,0,0.0,CURRENT
+AR-1087,CBRE Defense,0,0,0.0,CURRENT
+AR-1088,CBRE Defense,0,0,0.0,CURRENT
+AR-1089,Vectrus Systems,0,0,0.0,CURRENT
+AR-1090,Torch Technologies,0,0,0.0,CURRENT
+AR-1091,Torch Technologies,0,0,0.0,CURRENT
+AR-1092,Torch Technologies,0,0,0.0,CURRENT
