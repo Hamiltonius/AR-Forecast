@@ -6,11 +6,12 @@ Part of the Regulus fintech suite.
 
 ## Usage
 
+🔧 How to Use ar-forecast
+
 1. Clone the repository:
 
 git clone https://github.com/Hamiltonius/AR-Forecast.git
 cd AR-Forecast
-
 
 2. (Optional, but recommended) Create a virtual environment and install dependencies:
 
@@ -18,10 +19,17 @@ python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 
+3. Load the included dataset:
+The repo comes with a synthetic dataset:
+📄 defense_ar_synthetic_data.csv
 
-3. Run the main script:
+If you’d like to use your own data, just replace this file and ensure the format matches what’s expected in dataload.py.
+
+4. Run the main script:
+
+python main.py
 
 This will:
-- Load or generate synthetic defense accounts receivable (AR) data.
-- Train classification and regression models on overdue behavior.
-- Output feature importance and forecast charts to interpret trends and AR risk.
+	•	Load the dataset
+	•	Train classification and regression models on overdue behavior
+	•	Output feature importance and forecast charts to interpret trends and AR risk
